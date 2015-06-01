@@ -1,15 +1,15 @@
 {
-"Admins":["234567"],
+"Admins":["63734911"],
 "ApiKey":"Steam API Key goes here!",
 "mainLog": "syslog.log",
 "UseSeparateProcesses": "false",
 "AutoStartAllBots": "true",
 "Bots": [
         {
-            "Username":"BOT USERNAME",
-            "Password":"BOT PASSWORD",
+            "Username":"hilltopchill_bot",
+            "Password":"Tomfrankie1hiforeign",
             "ApiKey":"Bot specific apiKey",
-            "DisplayName":"TestBot",
+            "DisplayName":"hilltopchill_bot",
             "ChatResponse":"Hi there bro",
             "logFile": "TestBot.log",
             "BotControlClass": "SteamBot.SimpleUserHandler",
